@@ -1,8 +1,8 @@
 # mujib-borsho
 php code to view date of mujib borsho calender
 
-#use
+# use
 any one can use without any credit.
 
-#run
+# run
 use any system to run raw php files.
